@@ -1,0 +1,19 @@
+{
+  "name": "json-web-tokens-with-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "jsonwebtoken": "^5.4.1",
+    "mongoose": "^4.3.0",
+    "morgan": "^1.6.1"
+  }
+}
